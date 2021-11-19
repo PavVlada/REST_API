@@ -1,5 +1,11 @@
 # Task manager
 Веб-сервис предоставляющий REST API для управления персональным списком задач
+
+## Run server
+```
+cd src && uvicorn app:app --reload
+```
+
 ## Docs
 ![](https://github.com/PavVlada/REST_API/blob/screenshots/screenshots/docs.png)
 
