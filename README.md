@@ -1,5 +1,5 @@
 # Task manager
-Веб-сервис предоставляющий RESTful API для управления персональным списком задач
+Веб-сервис предоставляющий REST API для управления персональным списком задач
 ## Docs
 ![](https://github.com/PavVlada/REST_API/blob/screenshots/screenshots/docs.png)
 
