@@ -3,7 +3,7 @@
 
 ## Run server
 ```
-cd src && uvicorn app:app --reload
+uvicorn src.app:app --reload
 ```
 
 ## Docs
